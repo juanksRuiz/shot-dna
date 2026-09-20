@@ -1,0 +1,6 @@
+data/
+docs_skillcorner/
+img/
+.ipynb_checkpoints/
+__pycache__/
+.venv/
